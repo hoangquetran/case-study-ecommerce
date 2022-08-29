@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/case-study-ecommerce/static/css/main.d8583fed.css",
-    "main.js": "/case-study-ecommerce/static/js/main.32d03f8a.js",
-    "static/js/787.dcc73137.chunk.js": "/case-study-ecommerce/static/js/787.dcc73137.chunk.js",
-    "index.html": "/case-study-ecommerce/index.html",
-    "main.d8583fed.css.map": "/case-study-ecommerce/static/css/main.d8583fed.css.map",
-    "main.32d03f8a.js.map": "/case-study-ecommerce/static/js/main.32d03f8a.js.map",
-    "787.dcc73137.chunk.js.map": "/case-study-ecommerce/static/js/787.dcc73137.chunk.js.map"
+    "main.css": "/case-study-ecommerce/ecommerce/static/css/main.d8583fed.css",
+    "main.js": "/case-study-ecommerce/ecommerce/static/js/main.8c53bb93.js",
+    "static/js/787.dcc73137.chunk.js": "/case-study-ecommerce/ecommerce/static/js/787.dcc73137.chunk.js",
+    "index.html": "/case-study-ecommerce/ecommerce/index.html",
+    "main.d8583fed.css.map": "/case-study-ecommerce/ecommerce/static/css/main.d8583fed.css.map",
+    "main.8c53bb93.js.map": "/case-study-ecommerce/ecommerce/static/js/main.8c53bb93.js.map",
+    "787.dcc73137.chunk.js.map": "/case-study-ecommerce/ecommerce/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8583fed.css",
-    "static/js/main.32d03f8a.js"
+    "static/js/main.8c53bb93.js"
   ]
 }
